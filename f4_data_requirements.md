@@ -1,4 +1,4 @@
-File 6
+File 4
 
 As a data scientist and data analyst, you'll need various types of data from your car selling business to build and optimize your chatbot effectively. Here's a list of key data you'll need:
 
