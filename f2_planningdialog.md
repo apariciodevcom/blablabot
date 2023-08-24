@@ -1,3 +1,4 @@
+File 2
 Planning out the dialogue flows for various scenarios involves anticipating the different stages a customer might be in and designing a conversational structure that guides them effectively through each stage. Here's how you can plan dialogue flows for the scenarios you mentioned:
 
 1. **Initial Inquiries:**
