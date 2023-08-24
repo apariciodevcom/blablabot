@@ -1,3 +1,4 @@
+File 1
 Building a chatbot from scratch using the ChatGPT API involves integrating the API into your application or website to allow users to interact with the model. Here's a high-level overview of the steps you would need to follow:
 
 1. **Set Up a ChatGPT API Account:**
