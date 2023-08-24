@@ -1,4 +1,4 @@
-File 6
+File 5
 
 Deciding on the personality and tone of the chatbot and aligning it with your brand's voice involves careful consideration of your company's values, vision, and customer interactions. Here's how you can achieve a personality that reflects your brand while creating a friendly, helpful, and professional impression:
 
