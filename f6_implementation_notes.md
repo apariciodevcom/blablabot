@@ -1,4 +1,4 @@
-File 7
+File 6
 
 Implementing the chatbot on your website involves embedding code or using a plugin to integrate the chatbot interface and functionality seamlessly. Here's a general guide on how to do this on an NGINX server:
 
